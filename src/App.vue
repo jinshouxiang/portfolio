@@ -5,7 +5,7 @@
     <nav>
       <!-- <router-link to="/">Home</router-link> | -->
       <!-- <router-link to="/about">About</router-link> -->
-      <router-link to="/profile">Profile</router-link> |
+      <router-link to="/">Profile</router-link> |
       <router-link to="/gallery">Gallery</router-link> |
       <router-link to="/skills">Skills</router-link>
     </nav>
